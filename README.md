@@ -57,7 +57,7 @@ Follow these detailed steps to effectively use the Job Application Progress Trac
 - [User Session](#user-session)
 - [Search and Filters](#search-and-filters)
 - [Application Tracking](#application-tracking)
-- [Additional Features](#additional-features)
+- [Data Privacy and Storage](#data-privacy-and-storage)
 
 ## Notifications and Reminders
 
@@ -142,4 +142,17 @@ Create and keep track of targeted cover letters specific to each application.
 
 ### Interview Questions
 Record potential interview questions for each job application.
+
+## Data Privacy and Storage
+
+### Your Information, Your Control
+- **We prioritize your privacy and data control.**
+  - **Your Information:** All information you enter into the Job Application Progress Tracker is controlled and managed by you.
+  - **Your Device:** Data is stored locally on your device, ensuring that you have full control over its accessibility and security.
+  - **Your Google Drive:** When you choose to export or import data, it is handled through your Google Drive, providing a secure and personal storage solution.
+
+### No Data Stored on Our Servers
+- **Your data stays with you.**
+  - We do not store any of your data on our servers. The integrity and privacy of your data are paramount, and as such, all information is managed exclusively on your device and through your Google Drive account. This approach ensures that you have complete control over your personal and application-related data.
+
 
