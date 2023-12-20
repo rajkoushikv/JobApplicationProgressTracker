@@ -2,6 +2,53 @@
 
 Welcome to the Job Application Progress Tracker, a comprehensive tool designed to help you effectively manage your job application process. This README provides detailed information on how to use each feature of the application.
 
+## How to Use the Job Application Progress Tracker
+
+Follow these detailed steps to effectively use the Job Application Progress Tracker. This guide will walk you through each step from logging in to exporting your data.
+
+## Step-by-Step Guide
+
+### 1. Log In
+- **Login using your Google account.**
+  - Navigate to the login page and select the option to log in with Google.
+
+### 2. Grant Permissions
+- **Allow permissions for Google Drive and Google Calendar.**
+  - On your first login, you will be prompted to grant the necessary permissions for the application to access your Google Drive and Google Calendar.
+
+### 3. Getting Started
+- **Initial setup for users.**
+  - **New Users:** Once logged in, start by adding a job using the 'Add a new job' icon.
+  - **Existing Users:** Import your existing data via your device or Google Drive using the appropriate import icon.
+
+### 4. Update Application Details
+- **Fill in the details for each job application stage.**
+  - Ensure that you update the status of each application.
+  - Use the color-coded system to track progress: 
+    - **Green:** Stage completed.
+    - **Yellow:** Stage pending.
+  - If any text field does not apply to your job, please enter 'None' or 'NA', so that your Stage is completed.
+
+### 5. Saving Data
+- **Data is automatically saved in your browser.**
+  - As you enter information, the data is saved in real-time to your browser, minimizing the risk of data loss during the session.
+
+### 6. Exporting Data
+- **Regularly export your data.**
+  - To safeguard your data, regularly export it to your device or Google Drive.
+  - This ensures you have a backup in case of data loss.
+
+### 7. Utilize Additional Features
+- **Explore and use the additional features of the tracker.**
+  - The application includes various features like calendar views, filters, document management, and more, as detailed in the [Features Overview](#features-overview) section.
+
+### 8. Logging Out
+- **Logout or stay signed in as per your preference.**
+  - Remember that all data saved in the browser will be lost upon logging out.
+  - Ensure that you have exported your data before logging out if you choose to do so.
+
+---
+
 ## Features
 - [Notifications and Reminders](#notifications-and-reminders)
 - [Calendar Features](#calendar-features)
