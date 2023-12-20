@@ -131,8 +131,6 @@ Color : Yellow indicates that the stage is incomplete<br>
 4.	Are you done with your interview?
 5.	Did they offer you the job?
 
-## Additional Features
-
 ### Follow-Up Questions
 Manage personalized follow-up questions for each job application.
 
