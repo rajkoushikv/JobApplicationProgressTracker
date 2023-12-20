@@ -67,13 +67,16 @@ Follow these detailed steps to effectively use the Job Application Progress Trac
 ![image](https://github.com/rajkoushikv/JobApplicationProgressTracker/assets/123784853/33ab6e69-6c64-4f86-a0ce-7daa2eb87910)
 
 ### Browser Push Notifications
-Receive real-time alerts directly through your browser for application updates and deadlines.
+Receive real-time alerts directly through your browser for application updates and deadlines.<br>
+(Notifications will pop up on your browser, a day before the event)
 
 ### Google Calendar Notifications
-Get notifications on important dates and deadlines related to your job applications integrated with Google Calendar.
+Get notifications on important dates and deadlines related to your job applications integrated with Google Calendar.<br>
+(Notifications will pop up on your Calendar, a day before the event)
 
 ### Google Calendar Reminder Email
-Set up email reminders for upcoming events and deadlines.
+Set up email reminders for upcoming events and deadlines.<br>
+(Notifications will pop up on your Email, a day before the event)
 
 ## Calendar Features
 
