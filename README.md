@@ -40,7 +40,7 @@ Follow these detailed steps to effectively use the Job Application Progress Trac
 
 ### 7. Utilize Additional Features
 - **Explore and use the additional features of the tracker.**
-  - The application includes various features like calendar views, filters, document management, and more, as detailed in the [Features Overview](#features-overview) section.
+  - The application includes various features like calendar views, filters, document management, and more, as detailed in the Features Overview section.
 
 ### 8. Logging Out
 - **Logout or stay signed in as per your preference.**
