@@ -8,6 +8,9 @@ Follow these detailed steps to effectively use the Job Application Progress Trac
 
 ## Step-by-Step Guide
 
+![PC](https://github.com/rajkoushikv/JobApplicationProgressTracker/assets/123784853/ba186673-5fbd-456e-a868-648cfdb6e6b8)
+
+
 ### 1. Log In
 - **Login using your Google account.**
   - Navigate to the login page and select the option to log in with Google.
@@ -61,6 +64,8 @@ Follow these detailed steps to effectively use the Job Application Progress Trac
 
 ## Notifications and Reminders
 
+![image](https://github.com/rajkoushikv/JobApplicationProgressTracker/assets/123784853/33ab6e69-6c64-4f86-a0ce-7daa2eb87910)
+
 ### Browser Push Notifications
 Receive real-time alerts directly through your browser for application updates and deadlines.
 
@@ -72,6 +77,8 @@ Set up email reminders for upcoming events and deadlines.
 
 ## Calendar Features
 
+![image](https://github.com/rajkoushikv/JobApplicationProgressTracker/assets/123784853/43521a1e-2e2a-458a-a518-f3300a4b60c8)
+
 ### Calendar View
 Visualize your application timelines in a calendar format.
 
@@ -82,6 +89,8 @@ Apply filters in the calendar view to display applications based on criteria lik
 Synchronize your job application deadlines and events with your Google Calendar.
 
 ## Document Management
+
+![image](https://github.com/rajkoushikv/JobApplicationProgressTracker/assets/123784853/5bd7d536-0421-4879-b800-4c5c728896b6)
 
 ### Google Drive File Storage
 Store and access job application documents like resumes and cover letters in Google Drive.
